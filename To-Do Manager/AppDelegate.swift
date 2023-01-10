@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  To-Do Manager
-//
-//  Created by jarvis on 24/10/22.
-//
-
 import UIKit
 
 @main
